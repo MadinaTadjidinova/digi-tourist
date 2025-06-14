@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Green Yard Hotel",
+    "type": "hotel",
+    "description": "Green Yard — уютный бутик-отель, идеально подходящий для семей, пар и лыжников. Предлагается завтрак с домашней выпечкой, уютные номера, трансфер до горнолыжной базы и гостеприимный персонал.",
+    "price": "от 4000 сом / $45 за ночь (включая завтрак)",
+    "location": "ул. Жусуп Абдрахманова 206, Каракол 722200",
+    "check_in": "с 14:00",
+    "check_out": "до 12:00",
+    "rooms": 15,
+    "stars": 3,
+    "rating": 4.7,
+    "reviews": "Гости отмечают уютную атмосферу, вкусный завтрак и тёплый приём со стороны персонала.",
+    "contact": "+996 312 909 444",
+    "email": "info@greenyardhotel.com",
+    "website": "https://www.greenyardhotel.com",
+    "services": [
+      "Бесплатный Wi-Fi",
+      "Завтрак включён",
+      "Трансфер до горнолыжной базы",
+      "Прачечная",
+      "Туристическая информация",
+      "Сейф на ресепшене",
+      "Парковка"
+    ],
+    "languages": ["русский", "английский"],
+    "photos": [
+      "https://greenyardhotel.com/images/room1.jpg",
+      "https://greenyardhotel.com/images/room2.jpg"
+    ]
+  },
+  {
+    "name": "Matsunoki Green Yard",
+    "type": "hotel",
+    "description": "Современное здание в японском стиле — тихое место с панорамным видом, японской баней и эстетичным интерьером. Отлично подходит для романтического отдыха или цифрового детокса.",
+    "price": "от 5500 сом / $60 за ночь",
+    "location": "ул. Абдрахманова 208, Каракол",
+    "check_in": "с 15:00",
+    "check_out": "до 11:00",
+    "rooms": 8,
+    "stars": 4,
+    "rating": 4.9,
+    "reviews": "Гости любят стильный интерьер, чистоту и расслабляющую атмосферу. Высоко оценена баня и вид на горы.",
+    "contact": "+996 707 123 456",
+    "email": "matsunoki@greenyardhotel.com",
+    "website": "https://www.greenyardhotel.com/matsunoki",
+    "services": [
+      "Wi-Fi",
+      "Японская баня (офуро)",
+      "Спа-процедуры",
+      "Завтрак в японском стиле",
+      "Парковка",
+      "Панорамный вид на горы"
+    ],
+    "languages": ["русский", "английский", "японский"],
+    "photos": [
+      "https://greenyardhotel.com/images/matsunoki1.jpg",
+      "https://greenyardhotel.com/images/matsunoki2.jpg"
+    ]
+  },
+  {
+    "name": "Amir Hotel",
+    "type": "hotel",
+    "description": "Центральный отель с просторными номерами, дружелюбным персоналом и уютной гостиной зоной с камином. Отличный выбор для путешественников, ищущих комфорт и простоту.",
+    "price": "от 3000 сом / $33 за ночь",
+    "location": "ул. Абдрахманова 78, Каракол 722200",
+    "check_in": "с 13:00",
+    "check_out": "до 12:00",
+    "rooms": 20,
+    "stars": 3,
+    "rating": 4.5,
+    "reviews": "Гости хвалят тёплый приём, хороший завтрак и удобное расположение. Часто выбирают как базу для экскурсий.",
+    "contact": "+996 558 101 050",
+    "email": "amirhotel.karakol@gmail.com",
+    "website": "https://www.amirhotel.kg",
+    "services": [
+      "Wi-Fi",
+      "Завтрак",
+      "Камин в лобби",
+      "Трансфер из аэропорта",
+      "Услуги гида",
+      "Прачечная"
+    ],
+    "languages": ["русский", "английский"],
+    "photos": [
+      "https://amirhotel.kg/images/room1.jpg",
+      "https://amirhotel.kg/images/lobby.jpg"
+    ]
+  },
+  {
+    "name": "Hillside Karakol B&B",
+    "type": "guesthouse",
+    "description": "Домашний уют, вкусные завтраки с местных продуктов, тихая зелёная зона — всё это делает Hillside идеальным местом для отдыха от городской суеты.",
+    "price": "от 2500 сом / $28 за ночь",
+    "location": "пер. Боконбаева 3, Каракол",
+    "check_in": "с 12:00",
+    "check_out": "до 11:00",
+    "rooms": 6,
+    "stars": 2,
+    "rating": 4.8,
+    "reviews": "Гости в восторге от теплого приёма, вкусных завтраков и тишины. Место популярно у семей и пар.",
+    "contact": "+996 709 330 870",
+    "email": "hillside.karakol@gmail.com",
+    "website": "https://hillsidekarakol.com",
+    "services": [
+      "Wi-Fi",
+      "Домашний завтрак",
+      "Семейная атмосфера",
+      "Сад",
+      "Парковка",
+      "Кухня для гостей"
+    ],
+    "languages": ["русский", "английский"],
+    "photos": [
+      "https://hillsidekarakol.com/images/house.jpg",
+      "https://hillsidekarakol.com/images/breakfast.jpg"
+    ]
+  }
+]

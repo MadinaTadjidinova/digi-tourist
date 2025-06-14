@@ -1,0 +1,75 @@
+{
+  "name": "Империя Пицца",
+  "type": "Пиццерия / Кафе",
+  "location": {
+    "address": "ул. Токтогула, 186, Каракол, Кыргызстан",
+    "coordinates": {
+      "latitude": 42.483113,
+      "longitude": 78.40188
+    }
+  },
+  "contacts": {
+    "2gis": "https://2gis.kg/karakol/firm/70000001068150935",
+    "tripadvisor": "https://www.tripadvisor.ru/Restaurant_Review-g815340-d27160803-Reviews-Empire_Pizza-Karakol_Issyk_Kul_Province.html",
+    "instagram": null,
+    "yandex": "https://yandex.com/maps/org/imperiya/129032446933/?ll=78.401975%2C42.483066&z=16"
+  },
+  "rating": 4.1,
+  "features": [
+    "Завтраки",
+    "Пицца 30 и 40 см",
+    "Сезонные новинки",
+    "Молочные коктейли",
+    "Салаты",
+    "Круассаны"
+  ],
+  "updated": "25 июня 2024",
+  "menu": {
+    "Основное": [
+      {
+        "name": "Лимонад Арбузный Тоник",
+        "price_som": 218
+      },
+      {
+        "name": "Милкшейк Банан Малина",
+        "price_som": 228
+      },
+      {
+        "name": "Пицца Пай 30 см",
+        "price_som": 498
+      },
+      {
+        "name": "Пицца Пай 40 см",
+        "price_som": 798
+      },
+      {
+        "name": "Шакшука с томатами",
+        "price_som": 288
+      },
+      {
+        "name": "Круассан классический",
+        "price_som": 78
+      },
+      {
+        "name": "Сливочный суп с лососем",
+        "price_som": 288
+      },
+      {
+        "name": "Запечённый лосось с брокколи",
+        "price_som": 698
+      },
+      {
+        "name": "Чили 30 см",
+        "price_som": 568
+      },
+      {
+        "name": "4 Сыра 30 см",
+        "price_som": 598
+      },
+      {
+        "name": "Шашлычная с говядиной 30 см",
+        "price_som": 538
+      }
+    ]
+  }
+}

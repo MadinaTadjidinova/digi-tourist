@@ -1,0 +1,108 @@
+{
+  "name": "Dastorkon",
+  "type": "Ethno Restaurant / Кафе",
+  "description": "Dastorkon is a modern restaurant rooted in the traditions of Central Asian hospitality. It offers a wide variety of traditional Kyrgyz dishes prepared with fresh herbs, vegetables, and juicy meat.",
+  "location": {
+    "address": "ул. Ленина, 99, Каракол, Кыргызстан",
+    "coordinates": {
+      "latitude": 42.498529,
+      "longitude": 78.38338
+    }
+  },
+  "contacts": {
+    "phone": [
+      "0707400270",
+      "0555400270",
+      "0998400270"
+    ],
+    "instagram": "https://www.instagram.com/dastorkon_ethno/",
+    "website": "https://taplink.cc/dastorkon.ethno",
+    "2gis": "https://2gis.kg/karakol/firm/70000001027881249",
+    "yandex": "https://yandex.com/maps/org/etno_kafe_dastorkon/180152329782/"
+  },
+  "rules": {
+    "alcohol": "Do not bring alcohol or other drinks",
+    "smoking": "Do not smoke — fine 1000 som",
+    "service_fee": "15%",
+    "delivery": "0707400270",
+    "reservations": [
+      "0555400270",
+      "0998400270"
+    ]
+  },
+  "menu": {
+    "Breakfast": [
+      {
+        "name": "Big Breakfast",
+        "description": "Fried eggs, omelette",
+        "price_som": 350
+      },
+      {
+        "name": "Buckwheat/Rice Porridge",
+        "description": "With dry fruits",
+        "price_som": 180
+      },
+      {
+        "name": "Kyrgyz Breakfast",
+        "description": "",
+        "price_som": 450
+      }
+    ],
+    "Bread": [
+      {
+        "name": "Bread Set 'Welcome'",
+        "price_som": 635
+      },
+      {
+        "name": "Tandyr Bread",
+        "price_som": 20
+      },
+      {
+        "name": "Ethno Bread",
+        "price_som": 60
+      },
+      {
+        "name": "Samsa with Lamb Meat",
+        "price_som": 95
+      },
+      {
+        "name": "Kalama with Sour Cream",
+        "price_som": 115
+      },
+      {
+        "name": "Kattama with Onion & Sour Cream",
+        "price_som": 220
+      },
+      {
+        "name": "Boorsok with Sour Cream",
+        "price_som": 145
+      },
+      {
+        "name": "Chak Chak with Raisin & Poppy Seeds",
+        "price_som": 120
+      }
+    ],
+    "Chef's Dishes": [
+      {
+        "name": "Ribeye Steak 'Jailoo'",
+        "price_som": 1299
+      },
+      {
+        "name": "Salmon with Spinach and Creamy Sauce",
+        "price_som": 1299
+      },
+      {
+        "name": "Baked Duck with Orange",
+        "price_som": 699
+      },
+      {
+        "name": "Bone Marrow with Vegetables on the Fire",
+        "price_som": 599
+      },
+      {
+        "name": "Mini Lamb T-Bones with Sea Buckthorn Sauce",
+        "price_som": 799
+      }
+    ]
+  }
+}

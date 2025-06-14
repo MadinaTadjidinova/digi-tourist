@@ -1,0 +1,61 @@
+{
+  "name": "SIERRA Coffee & Restaurant",
+  "type": "Кофейня / Ресторан / Кафе",
+  "location": {
+    "address": "ул. Токтогула 201, Каракол, Кыргызстан",
+    "coordinates": {
+      "latitude": 42.484908,
+      "longitude": 78.382464
+    }
+  },
+  "contacts": {
+    "instagram": "https://www.instagram.com/sierra_karakol/",
+    "tripadvisor": "https://www.tripadvisor.ru/Restaurant_Review-g815340-d23355608-Reviews-SIERRA_Coffee_Restaurant_Karakol-Karakol_Issyk_Kul_Province.html",
+    "2gis": "https://2gis.kg/karakol/firm/70000001035170145",
+    "yandex": "https://yandex.com/maps/org/siyerra/238200103594/?ll=78.382464%2C42.484908&z=16"
+  },
+  "working_hours": "08:00 – 22:00 ежедневно",
+  "cuisine": [
+    "Европейская",
+    "Кыргызская",
+    "Кофейня",
+    "Бургеры",
+    "Паста",
+    "Десерты"
+  ],
+  "features": [
+    "Wi-Fi",
+    "Завтраки",
+    "Обеды",
+    "Ужин",
+    "Кофе навынос",
+    "Парковка",
+    "Работает ежедневно"
+  ],
+  "rating": 4.5,
+  "reviews_summary": "Пользователи хвалят качественный кофе, уютную атмосферу и разнообразное меню. Подходит как для туристов, так и для местных жителей.",
+  "menu": {
+    "Популярные блюда": [
+      {
+        "name": "Американо",
+        "category": "Кофе",
+        "price_som": 120
+      },
+      {
+        "name": "Паста с курицей",
+        "category": "Основные блюда",
+        "price_som": 390
+      },
+      {
+        "name": "Домашний чизкейк",
+        "category": "Десерты",
+        "price_som": 250
+      },
+      {
+        "name": "Завтрак 'English Breakfast'",
+        "category": "Завтраки",
+        "price_som": 320
+      }
+    ]
+  }
+}
